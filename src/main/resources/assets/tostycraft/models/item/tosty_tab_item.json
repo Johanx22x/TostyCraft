@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tostycraft:item/tosty_tab_item"
+  }
+}
