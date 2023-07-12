@@ -5,6 +5,7 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -32,6 +33,8 @@ public class TostyCraft
 
         // Register TostycraftItems
         TostyItems.TOSTY_ITEMS.register(modEventBus);
+
+        MinecraftForge.EVENT_BUS.register(this);
     }
 
     // Add a listener for the event that fires when a player smelts
