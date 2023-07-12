@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:milk_bucket"
+    },
+    "Y": {
+      "item": "tostycraft:salt_item"
+    }
+  },
+  "result": {
+    "item": "tostycraft:cheese_item",
+    "count": 4
+  }
+}

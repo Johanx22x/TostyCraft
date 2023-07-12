@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:wheat"
+    },
+    "Y": {
+      "item": "tostycraft:salt_item"
+    }
+  },
+  "result": {
+    "item": "tostycraft:tronaditas_item"
+  }
+}

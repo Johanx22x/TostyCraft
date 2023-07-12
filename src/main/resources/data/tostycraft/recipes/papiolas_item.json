@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:potato"
+    },
+    "Y": {
+      "item": "tostycraft:cheese_item"
+    },
+    "Z": {
+      "item": "tostycraft:salt_item"
+    }
+  },
+  "result": {
+    "item": "tostycraft:papiolas_item",
+    "count": 2
+  }
+}
