@@ -1,4 +1,4 @@
-# Tosty Snacks Mod
+# TostyCraft
 
 ## Description
 The Tosty Snacks Mod is a fun and tasty addition to Minecraft, allowing players to enjoy a variety of delicious toasty snacks. This mod introduces five unique tosty snacks, along with salt and cheese, to enhance your culinary adventures in the game. Whether you're exploring the depths of caves or building magnificent structures, these snacks will keep you energized and satisfied.
